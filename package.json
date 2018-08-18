@@ -18,5 +18,13 @@
   "devDependencies": {},
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahughesmusic/Jungle-Click-Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lahughesmusic/Jungle-Click-Game/issues"
+  },
+  "homepage": "https://github.com/lahughesmusic/Jungle-Click-Game#readme"
 }
