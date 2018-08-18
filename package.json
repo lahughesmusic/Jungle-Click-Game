@@ -25,10 +25,10 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lahughesmusic/Jungle-Click-Game.git"
+    "url": "git+https://lahughesmusic.github.io/Jungle-Click-Game.git"
   },
   "bugs": {
-    "url": "https://github.com/lahughesmusic/Jungle-Click-Game/issues"
+    "url": "https://lahughesmusic.github.io/Jungle-Click-Game/issues"
   },
-  "homepage": "https://github.com/lahughesmusic/Jungle-Click-Game/public/index.html"
+  "homepage": "https://lahughesmusic.github.io/Jungle-Click-Game/public/index.html"
 }
