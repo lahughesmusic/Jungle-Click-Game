@@ -12,7 +12,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "jungle-click-game -d build"
+
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "main": "index.js",
@@ -27,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/lahughesmusic/Jungle-Click-Game/issues"
   },
-  "homepage": "https://github.com/lahughesmusic/Jungle-Click-Game/"
+  "homepage": ","
 }
